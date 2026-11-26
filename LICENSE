@@ -1,0 +1,12 @@
+Copyright (c) 2026 TomLiebing
+
+All documentation, photos, measurements and LTspice files in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, including commercially,
+as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Third-party material (the original schematic, manufacturer datasheets) is NOT included and NOT covered
+by this license; see docs/SOURCES.md and docs/datasheets/DATASHEETS.md for links.

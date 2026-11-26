@@ -1,0 +1,23 @@
+# LTspice outputs (regenerate by running the .asc)
+*.raw
+*.db
+*.log
+*.net
+*.op.raw
+*.fft
+
+# Office lock files and backups
+~$*
+*.backup*
+
+# Third-party material (copyright) - keep out of the repo
+*.pdf
+Varioprop_C6_4.JPG
+rc-network-wiki/
+
+# Python / OS
+.venv/
+__pycache__/
+*.stackdump
+Thumbs.db
+.DS_Store
