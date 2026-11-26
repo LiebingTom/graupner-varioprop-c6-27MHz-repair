@@ -8,8 +8,6 @@ Unit: Graupner/Grundig varioprop C6, SSM 27 (27 MHz AM), Best.-Nr. 3953, 1978, 6
 |---|---|---|
 | Schematic (redraw, JMF 09/13) | https://wiki.rc-network.de/wiki/Graupner_Fernsteuersender_%C3%9Cbersicht#Varioprop_C6 | not included (third-party copyright) – download from the wiki |
 | Photos front/side | same wiki page | not included (third-party copyright) |
-| Repair thread, Varioprop 12S (T101 osc swapped to 2N2222, retune L101) | https://www.electro-tech-online.com/threads/varioprop-12s-repair.158657/ | – |
-| Receiver repair thread | https://www.rc-network.de/threads/graupner-varioprop-empf%C3%A4nger-reparatur.529777/ | – |
 
 Not found online: original Graupner manual / service manual, original NEC 2SC1589 datasheet.
 
